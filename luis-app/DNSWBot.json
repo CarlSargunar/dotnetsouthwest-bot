@@ -1,0 +1,135 @@
+{
+  "luis_schema_version": "1.3.0",
+  "name": "DNSWBot",
+  "desc": "",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "Greeting"
+    },
+    {
+      "name": "NextEventIntent"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "PersonAttendingIntent"
+    },
+    {
+      "name": "RaffleWinnerIntent"
+    }
+  ],
+  "entities": [
+    {
+      "name": "AttendeeName"
+    }
+  ],
+  "composites": [],
+  "bing_entities": [],
+  "actions": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "whens the next event?",
+      "intent": "NextEventIntent",
+      "entities": []
+    },
+    {
+      "text": "is benjamin coming?",
+      "intent": "PersonAttendingIntent",
+      "entities": [
+        {
+          "entity": "AttendeeName",
+          "startPos": 1,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "pick a raffle winner",
+      "intent": "RaffleWinnerIntent",
+      "entities": []
+    },
+    {
+      "text": "hey man whens the next event",
+      "intent": "NextEventIntent",
+      "entities": []
+    },
+    {
+      "text": "tell me when the next event is?",
+      "intent": "NextEventIntent",
+      "entities": []
+    },
+    {
+      "text": "can you let me know what the next event is?",
+      "intent": "NextEventIntent",
+      "entities": []
+    },
+    {
+      "text": "is ross going?",
+      "intent": "PersonAttendingIntent",
+      "entities": [
+        {
+          "entity": "AttendeeName",
+          "startPos": 1,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "is joseph going?",
+      "intent": "PersonAttendingIntent",
+      "entities": [
+        {
+          "entity": "AttendeeName",
+          "startPos": 1,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "is james going?",
+      "intent": "PersonAttendingIntent",
+      "entities": [
+        {
+          "entity": "AttendeeName",
+          "startPos": 1,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "time to pick a raffle winner",
+      "intent": "RaffleWinnerIntent",
+      "entities": []
+    },
+    {
+      "text": "when is the next event",
+      "intent": "NextEventIntent",
+      "entities": []
+    },
+    {
+      "text": "when is the next event?",
+      "intent": "NextEventIntent",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "is benjamin going?",
+      "intent": "PersonAttendingIntent",
+      "entities": [
+        {
+          "entity": "AttendeeName",
+          "startPos": 1,
+          "endPos": 1
+        }
+      ]
+    }
+  ]
+}

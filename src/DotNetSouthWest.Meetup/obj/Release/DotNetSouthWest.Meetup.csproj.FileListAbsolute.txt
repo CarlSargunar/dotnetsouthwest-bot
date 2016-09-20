@@ -1,0 +1,7 @@
+C:\Code\Bots\DotNetSouthWestBot\src\DotNetSouthWest.Meetup\bin\Release\DotNetSouthWest.Meetup.dll
+C:\Code\Bots\DotNetSouthWestBot\src\DotNetSouthWest.Meetup\bin\Release\DotNetSouthWest.Meetup.pdb
+C:\Code\Bots\DotNetSouthWestBot\src\DotNetSouthWest.Meetup\bin\Release\Newtonsoft.Json.dll
+C:\Code\Bots\DotNetSouthWestBot\src\DotNetSouthWest.Meetup\bin\Release\Newtonsoft.Json.xml
+C:\Code\Bots\DotNetSouthWestBot\src\DotNetSouthWest.Meetup\obj\Release\DotNetSouthWest.Meetup.csprojResolveAssemblyReference.cache
+C:\Code\Bots\DotNetSouthWestBot\src\DotNetSouthWest.Meetup\obj\Release\DotNetSouthWest.Meetup.dll
+C:\Code\Bots\DotNetSouthWestBot\src\DotNetSouthWest.Meetup\obj\Release\DotNetSouthWest.Meetup.pdb
